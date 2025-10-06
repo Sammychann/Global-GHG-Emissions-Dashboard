@@ -49,9 +49,6 @@ This dashboard page focuses on **temporal trends and patterns** in global greenh
 
 <img width="1275" height="727" alt="image" src="https://github.com/user-attachments/assets/38104612-328f-4ec6-a86b-095d1ac0fd02" />
 
-
-![Comparative Analysis Dashboard](imagescross-sectional comparisons** across different dimensions - geographic regions, economic development levels, and individual countries. The visualization approach uses multiple chart types to effectively communicate proportional relationships and rankings.
-
 **Key Visualizations:**
 - **Continental Pie Chart:** Shows greenhouse gas distribution by continent with Asia leading at 26.43%, followed by Europe (25.33%), and North America, with detailed percentage breakdowns
 - **Income-Based Bar Chart:** Horizontal bar chart displaying emission shares by economic development level, clearly showing high-income countries' disproportionate contribution
@@ -71,9 +68,6 @@ This dashboard page focuses on **temporal trends and patterns** in global greenh
 ## 🗺️ Page 3: Bird's Eye View
 
 <img width="1291" height="706" alt="image" src="https://github.com/user-attachments/assets/c15ce028-b951-4ad6-be3f-6d475419cce0" />
-
-
-![Bird's Eye Geographic View](images/page3_geographic page presents a **geospatial perspective** on global emissions, utilizing an interactive world map to show geographic distribution and hotspots. The visualization leverages spatial analysis to identify regional clusters and geographic patterns in emission data.
 
 **Key Visualizations:**
 - **Interactive World Map:** Plotted points representing emission monitoring stations/countries across all continents with higher concentration in industrialized regions
